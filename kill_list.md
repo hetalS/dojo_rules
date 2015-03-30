@@ -5,4 +5,5 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* programmer grievance - switch without break
+* programmer grievance - 
+* switch without break
